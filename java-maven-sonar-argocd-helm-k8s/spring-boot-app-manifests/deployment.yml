@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: aashisaxena15/java-mvn-cicd:2
+        image: aashisaxena15/java-mvn-cicd:27
         ports:
         - containerPort: 8080
